@@ -10,7 +10,8 @@ Basement: <br><br>
 https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/how-do-neurons-work <br>
 https://drauziovarella.uol.com.br/corpo-humano/neuronio/ <br>
 https://www.youtube.com/watch?v=6qS83wD29PY<br>
-https://www.youtube.com/watch?v=HUuUUJktL6E
+https://www.youtube.com/watch?v=HUuUUJktL6E<br>
+https://pt.wikipedia.org/wiki/Neur%C3%B4nio_artificial
 
 Acknowledgement: <br><br>
 Gedson Faria <br>
