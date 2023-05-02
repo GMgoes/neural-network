@@ -2,6 +2,12 @@
 
 This project aims to bring together the knowledge and algorithms developed to create an artificial neuron and apply it to the development of a neural network, a project is being developed on campus
 
+Model Artificial Neuron: <br><br>
+![artificial-neuron](images/artificial-neuron.png)
+
+Model Biological Neuron: <br><br>
+![artificial-neuron](images/neuron.png)
+
 Technologies: <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
