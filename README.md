@@ -8,10 +8,6 @@ Model Artificial Neuron: <br><br>
 Model Biological Neuron: <br><br>
 ![artificial-neuron](images/neuron.png)
 
-Technologies: <br><br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 Basement: <br><br>
 https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/how-do-neurons-work <br>
 https://drauziovarella.uol.com.br/corpo-humano/neuronio/ <br>
@@ -21,4 +17,8 @@ https://pt.wikipedia.org/wiki/Neur%C3%B4nio_artificial
 
 Acknowledgement: <br><br>
 Gedson Faria <br>
-Priscila Martins
+Priscila Silva Martins
+
+Technologies: <br><br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
