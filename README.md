@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=HUuUUJktL6E<br>
 https://pt.wikipedia.org/wiki/Neur%C3%B4nio_artificial
 
 Acknowledgement: <br><br>
-Gedson Faria <br>
-Priscila Silva Martins
+[Gedson Faria](https://www.linkedin.com/in/gedson-faria-078901126/) <br>
+[Priscila Silva Martins](https://www.linkedin.com/in/prismart/)
 
 Technologies: <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
